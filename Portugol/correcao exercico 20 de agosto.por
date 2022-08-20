@@ -3,32 +3,31 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro numero
-		inteiro totalPares=0
-	     escreva("Digite um numero par:")
-		leia(numero)
-		enquanto(numero%2==0)
-			{
-				totalPares=totalP
-				
-				
-				
-				ares+numero
-				escreva("Digite um numero:")
-				leia (numero)
-				
-			}
-		      escreva ("O total de pares é ",totalPares)
-		      
-		}	
-	}
+	inteiro numero=0.0
+	inteiro totalsomatorio=0.0
+	real media=0.0
+	inteiro totalvaloreslidos=0
+
+// pode usar o (numero>=0)tambem
+	enquanto (numero>-1){
 	
+		escreva("Digite um numero inteiro positivo, ou negativo para sair:")
+	     leia(numero)
+
+	     se (numero>-1){
+	         totalvaloresLidos++
+	         totalSomatorio = totalSomatorio + numero
+
+	}
+		
+}
+,,
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 201; 
+ * @POSICAO-CURSOR = 398; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

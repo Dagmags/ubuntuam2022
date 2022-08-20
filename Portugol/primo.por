@@ -3,32 +3,33 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro numero
-		inteiro totalPares=0
-	     escreva("Digite um numero par:")
-		leia(numero)
-		enquanto(numero%2==0)
-			{
-				totalPares=totalP
-				
-				
-				
-				ares+numero
-				escreva("Digite um numero:")
-				leia (numero)
-				
-			}
-		      escreva ("O total de pares é ",totalPares)
-		      
-		}	
+		inteiro totalPrimo=0
+		inteiro primo = 0
+		para(inteiro x=1; x<=100; x++){
 	}
+			escreva("\n ",x)
+			para(inteiro y=1;y<=x;y++){
+				se(x%y==0){
+					primo++
+		}
+		}
+				se(primo==2){
+					escreva("\n ",x)
+					primo=0
+					totalPrimo = totalPrimo + x
+		}
+				  primo = 0
+		}
+			escreva("\n o total de numeros primos é ",totalPrimo)
+		}
 	
+}
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 201; 
+ * @POSICAO-CURSOR = 311; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
