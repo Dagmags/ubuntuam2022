@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 programa
 {
 	
 	funcao inicio()
 	{
+=======
+programa
+{
+	
+	funcao inicio()
+	{
+>>>>>>> 99f8dcb79a5bcf3348d46cc1cf4fd81fa9701418
 	//escreva 1 - 100; 1 - 50, de 3 em 3; 51 - 100, de 5 em 5.
 	// contar quantos numeros foram exibidos.
 
@@ -24,8 +32,13 @@ programa
 	}
 	     escreva("total de numeros de 3 em 3: ",x)
 	     escreva("total de numeros de 5 em 5: ",x)		
+<<<<<<< HEAD
 	}
 }
+=======
+	}
+}
+>>>>>>> 99f8dcb79a5bcf3348d46cc1cf4fd81fa9701418
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.

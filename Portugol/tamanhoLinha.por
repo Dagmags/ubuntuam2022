@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 programa
 {
 	
 	funcao inicio()
 	{
+=======
+programa
+{
+	
+	funcao inicio()
+	{
+>>>>>>> 99f8dcb79a5bcf3348d46cc1cf4fd81fa9701418
 		inteiro tamanho=0
 		escreva("digite o tamanho: ")
 		leia(tamanho)

@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 programa
 {
 	
 	funcao inicio()
 	{
+=======
+programa
+{
+	
+	funcao inicio()
+	{
+>>>>>>> 99f8dcb79a5bcf3348d46cc1cf4fd81fa9701418
 	inteiro somatorioImpares=0
 	
 	para(inteiro x=1;x<=100;x++){
@@ -16,8 +24,13 @@ programa
 		}
 	}
 	escreva("\nO total de numeros impares é ",somatorioImpares)
+<<<<<<< HEAD
 	}
 }
+=======
+	}
+}
+>>>>>>> 99f8dcb79a5bcf3348d46cc1cf4fd81fa9701418
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.

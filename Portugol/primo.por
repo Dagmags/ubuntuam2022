@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 programa
 {
 	
 	funcao inicio()
 	{
+=======
+programa
+{
+	
+	funcao inicio()
+	{
+>>>>>>> 99f8dcb79a5bcf3348d46cc1cf4fd81fa9701418
 		inteiro totalPrimo=0
 		inteiro primo = 0
 		para(inteiro x=1; x<=100; x++){
@@ -23,7 +31,11 @@ programa
 			escreva("\n o total de numeros primos é ",totalPrimo)
 		}
 	
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 99f8dcb79a5bcf3348d46cc1cf4fd81fa9701418
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.

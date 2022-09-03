@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 programa
 {
 	
@@ -6,6 +7,16 @@ programa
 	inteiro idade
 	
 		escreva("sua idade: ")
+=======
+programa
+{
+	
+	funcao inicio()
+	{
+	inteiro idade
+	
+		escreva("sua idade: ")
+>>>>>>> 99f8dcb79a5bcf3348d46cc1cf4fd81fa9701418
 		leia(idade)
 
  		se (idade>=10 e idade<=14){
@@ -21,8 +32,13 @@ programa
 
 
 		
+<<<<<<< HEAD
 	}
 }
+=======
+	}
+}
+>>>>>>> 99f8dcb79a5bcf3348d46cc1cf4fd81fa9701418
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
